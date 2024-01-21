@@ -2,4 +2,4 @@
 A bunch of image resources for your jellyfin instance
 
 
-![Full Catalog_Networks]([http://url/to/img.png](https://imgur.com/r6NRTav)https://imgur.com/r6NRTav)
+![alt text](https://github.com/eldrippy/jellyfin_res/blob/samples/Full_Catalog.png?raw=true)
